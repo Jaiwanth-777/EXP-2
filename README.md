@@ -1,4 +1,3 @@
-# EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
@@ -48,16 +47,20 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test
-
 Tabulation for Load Test:
-
-Model graph:
-Calculation: 
+![WhatsApp Image 2025-09-28 at 22 53 07_4a0aee24](https://github.com/user-attachments/assets/35b4e158-be7e-4685-81da-cebccf37f151)
+![WhatsApp Image 2025-09-28 at 22 54 05_3d055273](https://github.com/user-attachments/assets/a692f555-e798-4b9d-82a1-c21de14b2da7)
+![WhatsApp Image 2025-09-28 at 22 55 07_579c96df](https://github.com/user-attachments/assets/a2e7a044-2435-48b6-bca1-7f9f8dc1a6a0)
+![WhatsApp Image 2025-09-28 at 22 55 40_42bfd852](https://github.com/user-attachments/assets/767c8cc8-6022-4681-8dfc-b9b26829acb3)
+![WhatsApp Image 2025-09-28 at 22 56 27_d799a2c7](https://github.com/user-attachments/assets/4aa25936-da82-4808-8e82-7db1294fe507)
+![WhatsApp Image 2025-09-28 at 22 56 50_cecd5de4](https://github.com/user-attachments/assets/48394810-19ba-4b3f-a107-a1adb6c98f2f)
 
 Open circuit characteristics
+<img width="1431" height="922" alt="490707832-a6a9bcd8-6570-4274-9fe8-c8ca885dd4e1" src="https://github.com/user-attachments/assets/ee9c222b-f5f0-4c46-93e9-a997f5a3d9d1" />
 
   
 Load Characteristics:
- 
+ <img width="1362" height="935" alt="490707399-44c263f7-f2bf-4aee-972a-afd7fa2f163f" src="https://github.com/user-attachments/assets/f5a33a8b-1183-4322-9c47-7e5174ce5bf6" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
